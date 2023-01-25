@@ -7,7 +7,7 @@ Data is abundantly available in social media nowadays.This project helps in coll
 
 ## WORKFLOW OF THE PROJECT:
 ```bash
-1.)I/P FEATURES  FOR SCRAPPING TWEETS:
+1.)INPUT FEATURES  FOR SCRAPPING TWEETS:
  ```
  Get the input of the KEYWORD to search, DATE RANGE, No of Tweets from the user by GUI setup enviroment built by streamlit library
 ```bash
