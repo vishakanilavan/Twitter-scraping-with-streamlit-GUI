@@ -86,5 +86,5 @@ Accessing the localhost server
 Here's My demo video  of the project
 in linkedin's profile
 
-https://www.linkedin.com/in/vishaka-nilavan-9345aa138/](https://www.linkedin.com/in/vishaka-nilavan-9345aa138/recent-activity/
+https://www.linkedin.com/in/vishaka-nilavan-9345aa138/recent-activity/
 
