@@ -81,7 +81,7 @@ Accessing the localhost server
 
 ## Screenshots
 
-![img]https://i.imgur.com/Mfz7ffK.jpg[/img]
+![img]https://i.imgur.com/Mfz7ffK.jpg
 
 
 ## Demo
