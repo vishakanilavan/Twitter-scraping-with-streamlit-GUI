@@ -81,7 +81,7 @@ Accessing the localhost server
 
 ## Screenshots
 
-![img]https://i.imgur.com/Mfz7ffK.jpg
+![Twitter-scrap.jpg](https://i.postimg.cc/DzX9c3DD/Twitter-scrap.jpg)](https://postimg.cc/p9Pc24PY)
 
 
 ## Demo
