@@ -56,7 +56,7 @@ Tweets_counts=st.number_input("How much tweets you want to scrape(max 10000):",m
                                   value=100)
     
     
-tab1, tab2, tab3, tab4 = st.tabs(["Show", "Upload", "Download","Saved"])
+tab1, tab2, tab3, tab4 = st.tabs(["Scrape", "Upload", "Download","Saved"])
 
 # Scraping the data and displaying it
 with tab1:
